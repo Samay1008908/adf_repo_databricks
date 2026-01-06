@@ -1,0 +1,9 @@
+{
+	"name": "adfdatabrikssushil",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "c088476c-4966-4e26-b32b-a81b29fa582b",
+		"tenantId": "4709f683-7ad8-426d-a862-e6c4e4ee73af"
+	}
+}
